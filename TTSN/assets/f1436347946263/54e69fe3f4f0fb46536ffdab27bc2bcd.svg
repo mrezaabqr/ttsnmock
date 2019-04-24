@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Thumbslist</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Interface" sketch:type="MSLayerGroup" transform="translate(-597.000000, 5.000000)" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Thumbslist" transform="translate(602.000000, 1.000000)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-2105" x="0" y="0" width="10" height="10"></rect>
+                <rect id="Rectangle-2106" x="20" y="0" width="10" height="10"></rect>
+                <rect id="Rectangle-2107" x="40" y="0" width="10" height="10"></rect>
+                <rect id="Rectangle-2110" x="0" y="20" width="10" height="10"></rect>
+                <rect id="Rectangle-2108" x="20" y="20" width="10" height="10"></rect>
+                <rect id="Rectangle-2109" x="40" y="20" width="10" height="10"></rect>
+                <rect id="Rectangle-2113" x="0" y="40" width="10" height="10"></rect>
+                <rect id="Rectangle-2111" x="20" y="40" width="10" height="10"></rect>
+                <rect id="Rectangle-2112" x="40" y="40" width="10" height="10"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
